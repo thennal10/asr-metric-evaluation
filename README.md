@@ -1,6 +1,6 @@
 # Multilingual ASR Human Evaluation Dataset
 
-This repository contains the human evaluation dataset accompanying our paper: **Advocating Character Error Rate for Multilingual ASR Evaluation.**
+This repository contains the human evaluation dataset accompanying our paper: [Advocating Character Error Rate for Multilingual ASR Evaluation.](https://arxiv.org/abs/2410.07400)
 
 ## Overview
 
@@ -42,3 +42,18 @@ CSV files with human evaluation ratings:
 ### Metrics Notebook (`metrics.ipynb`)
 
 Jupyter notebook for calculating error rates and correlations between human judgments and ASR metrics.
+
+## Ciitation
+
+If you find our work helpful, please cite us:
+```bibtex
+@misc{k2024advocatingcharactererrorrate,
+      title={Advocating Character Error Rate for Multilingual ASR Evaluation}, 
+      author={Thennal D K and Jesin James and Deepa P Gopinath and Muhammed Ashraf K},
+      year={2024},
+      eprint={2410.07400},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.07400}, 
+}
+```
