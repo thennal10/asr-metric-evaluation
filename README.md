@@ -43,7 +43,7 @@ CSV files with human evaluation ratings:
 
 Jupyter notebook for calculating error rates and correlations between human judgments and ASR metrics.
 
-## Ciitation
+## Citation
 
 If you find our work helpful, please cite us:
 ```bibtex
